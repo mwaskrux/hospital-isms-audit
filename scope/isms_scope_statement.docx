@@ -1,1 +1,14 @@
 
+ISMS Scope Statement
+This Information Security Management System (ISMS) scope covers all information systems, personnel, processes, and technologies supporting the delivery of healthcare services at the hospital. It includes clinical, administrative, and ICT operations involved in the processing, storage, transmission, and protection of patient data and organizational information.
+
+The scope applies to:
+• Hospital Information System (HIS)
+• Electronic Medical Records (EMR)
+• Laboratory, Pharmacy, and Radiology systems
+• Server rooms, network infrastructure, backup systems, and cloud-hosted applications
+• ICT hardware and software assets used by clinical and administrative staff
+
+Excluded systems are those not owned, managed, or controlled by the hospital or those outside the hospital’s operational environment.
+
+The ISMS ensures confidentiality, integrity, and availability of information while supporting compliance with ISO 27001:2022 and applicable healthcare regulations.
