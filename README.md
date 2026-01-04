@@ -1,5 +1,7 @@
 Hospital ISMS Audit & Compliance Template (ISO/IEC 27001)
-🏥 Overview
+
+Overview
+
 This project provides a comprehensive framework for establishing, implementing, and auditing an Information Security Management System (ISMS) specifically tailored for a healthcare environment. It is aligned with the ISO/IEC 27001:2022 standard.
 
 The primary goal of this ISMS is to protect the Confidentiality, Integrity, and Availability of:
